@@ -1,5 +1,3 @@
-# Conectados pero vacíos
-
 Aplicación de visualización de datos en Streamlit para explorar el cambio poblacional y la migración
 
 ## Ejecución local
