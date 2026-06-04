@@ -1,3 +1,4 @@
+import app.bootstrap
 import streamlit as st
 
 from src.charts.migration_charts import (

@@ -1,4 +1,5 @@
 import streamlit as st
+import app.bootstrap
 
 from src.charts.demographic_charts import (
     METRIC_LABELS,
