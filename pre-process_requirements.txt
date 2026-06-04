@@ -1,0 +1,14 @@
+geopandas
+shapely
+pyproj
+fiona
+rtree
+mapclassify
+matplotlib
+seaborn
+folium
+branca
+streamlit-folium
+xlsxwriter
+statsmodels
+gpxpy

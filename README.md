@@ -5,7 +5,6 @@ Aplicación de visualización de datos en Streamlit para explorar el cambio pobl
 ## Ejecución local
 
 ```bash
-conda activate VD
 streamlit run app/app.py
 ```
 
@@ -40,3 +39,6 @@ Para regenerar los datos españoles:
 ```bash
 python -m src.data.preprocess_spain_connectivity
 ```
+
+Ten en cuenta que para ejecutar el programa de pre-procesamiento es necesario tener
+instaladas las librerías presentes en el fichero `pre-process_requirements.txt`
